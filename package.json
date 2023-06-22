@@ -1,0 +1,31 @@
+{
+    "name": "apialgoready",
+    "version": "1.0.0",
+    "main": "api.js",
+    "scripts": {
+      "start": "./node_modules/.bin/netlify-lambda serve src",
+      "build": "./node_modules/.bin/netlify-lambda build src"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.18.2",
+      "json-server": "^0.17.3",
+      "lodash": "^4.17.21",
+      "netlify-lambda": "^2.0.16",
+      "serverless-http": "^3.2.0",
+      "uuid": "^9.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/shreykharbanda31/APIAlgoReady.git"
+    },
+    "bugs": {
+      "url": "https://github.com/shreykharbanda31/APIAlgoReady/issues"
+    },
+    "homepage": "https://github.com/shreykharbanda31/APIAlgoReady#readme",
+    "description": ""
+  }
+  
