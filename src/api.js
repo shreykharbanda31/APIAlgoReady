@@ -11,7 +11,7 @@ const app = express();
 const router = express.Router();
 
 router.get("/youtubedata", (req, res) => {
-    const yt = [["V6mKVRU1evU","img"]]
+    const yt = [["V6mKVRU1evU","https://shreykharbanda31.github.io/images/IMG_8132.png"]]
         res.json({
             videoId : yt[0][0],
             videoImg : yt[0][1]
