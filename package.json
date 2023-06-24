@@ -7,7 +7,7 @@
       "build": "set NODE_OPTIONS=--openssl-legacy-provider && ./node_modules/.bin/netlify-lambda build src"
     },
     "keywords": [],
-    "author": "",
+    "author": "Shrey Kharbanda",
     "license": "ISC",
     "dependencies": {
       "cors": "^2.8.5",
