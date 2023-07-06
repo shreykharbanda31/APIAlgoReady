@@ -1,31 +1,38 @@
 const express = require("express");
 const cors = require("cors");
 const serverless = require("serverless-http");
-
+const MongoClient = require("mongodb").MongoClient
 
 const app = express();
+app.use(express.json());
+app.use(cors());
 
-// app.use(express.json());
-// app.use(express.cors());
+const uri = "mongodb+srv://sk10101:hello@cluster0.xsbzuyx.mongodb.net/?retryWrites=true&w=majority"
+const client = new MongoClient(uri);
+async function run() {
+  try {
+    await client.connect();
+    // database and collection code goes here
+    const db = client.db("Video");
+    const coll = db.collection("Video");
+    // find code goes here
+    // find code goes here
+    const cursor = coll.find();
+    // iterate code goes here
+    // iterate code goes here
+    await cursor.forEach(console.log);
+
+  } finally {
+    // Ensures that the client will close when you finish/error
+    await client.close();
+  }
+}
 
 const router = express.Router();
 
 router.get("/youtubedata", (req, res) => {
-    const yt = [["V6mKVRU1evU","https://shreykharbanda31.github.io/images/IMG_8132.png"],["V6mKVRU1evU","https://shreykharbanda31.github.io/images/IMG_8132.png"],["V6mKVRU1evU","https://shreykharbanda31.github.io/images/IMG_8132.png"],["V6mKVRU1evU","https://shreykharbanda31.github.io/images/IMG_8132.png"],["V6mKVRU1evU","https://shreykharbanda31.github.io/images/IMG_8132.png"]]
-    const responseData = [];
-
-    for (let i = 0; i < yt.length; i++) {
-      const videoId = yt[i][0];
-      const videoImg = yt[i][1];
-  
-      responseData.push({
-        videoId: videoId,
-        videoImg: videoImg
-      });
-    }
-  
-    res.json(responseData);
-    });
+  res.json({"go":"gang"})
+});
 
 app.use(`/.netlify/functions/api`, router);
 
