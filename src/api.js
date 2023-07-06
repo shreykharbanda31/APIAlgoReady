@@ -11,11 +11,20 @@ const app = express();
 const router = express.Router();
 
 router.get("/youtubedata", (req, res) => {
-    const yt = [["V6mKVRU1evU","https://shreykharbanda31.github.io/images/IMG_8132.png"]]
-        res.json({
-            videoId : yt[0][0],
-            videoImg : yt[0][1]
-        });
+    const yt = [["V6mKVRU1evU","https://shreykharbanda31.github.io/images/IMG_8132.png"],["V6mKVRU1evU","https://shreykharbanda31.github.io/images/IMG_8132.png"],["V6mKVRU1evU","https://shreykharbanda31.github.io/images/IMG_8132.png"],["V6mKVRU1evU","https://shreykharbanda31.github.io/images/IMG_8132.png"],["V6mKVRU1evU","https://shreykharbanda31.github.io/images/IMG_8132.png"]]
+    const responseData = [];
+
+    for (let i = 0; i < yt.length; i++) {
+      const videoId = yt[i][0];
+      const videoImg = yt[i][1];
+  
+      responseData.push({
+        videoId: videoId,
+        videoImg: videoImg
+      });
+    }
+  
+    res.json(responseData);
     });
 
 app.use(`/.netlify/functions/api`, router);
