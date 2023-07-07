@@ -14,8 +14,7 @@ router.get("/youtubedata", (req, res) => {
   {
   "videoName" : "2-3-4 Trees",
   "videoId": "VEBgxn0wbeM", 
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/2-3-4Trees.png
-"
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/2-3-4Trees.png"
   },
   {
   "videoName":"Arrays", 
