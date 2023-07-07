@@ -12,13 +12,11 @@ const router = express.Router();
 
 router.get("/youtubedata", (req, res) => {
           try {
-            //file path
-            const filePath = "APIAlgoReady/youtubedata.json";
             // Read the JSON file
-            const jsonData = fs.readFileSync(filePath, "utf8");
-        
+            const filePath = __dirname + "../youtubedata.json";
+            const jsonData = JSON.parse(fs.readFileSync(filePath, "utf8"));
             // Send the JSON data as the response
-            res.send(jsonData);
+            res.json(jsonData);
           } catch (error) {
             console.error(error);
             res.status(500).send("Internal Server Error");
