@@ -14,18 +14,7 @@ router.get("/youtubedata", (req, res) => {
           try {
             // Read the JSON file
             const filePath = path.join(__dirname, "/youtubedata.json");
-            const jsonData = [
-  {
-  "videoName" : "2-3-4 Trees",
-  "videoId": "VEBgxn0wbeM", 
-  "videoImg" : "https://github.com/shreykharbanda31/APIAlgoReady/blob/main/AlgoReady%20Posters/2-3-4Trees.png"
-  },
-  {
-  "videoName":"Arrays", 
-  "videoId" : "tI_tIZFyKBw",
-  "videoImg" : "https://github.com/shreykharbanda31/APIAlgoReady/blob/main/AlgoReady%20Posters/Arrays.png"
-  }
-];
+            const jsonData = JSON.parse(fs.readFileSync(filePath, "utf8"));
             // Send the JSON data as the response
             res.json(jsonData);
           } catch (error) {
