@@ -14,12 +14,13 @@ router.get("/youtubedata", (req, res) => {
   {
   "videoName" : "2-3-4 Trees",
   "videoId": "VEBgxn0wbeM", 
-  "videoImg" : "https://github.com/shreykharbanda31/APIAlgoReady/blob/main/AlgoReady%20Posters/2-3-4Trees.png"
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/2-3-4Trees.png
+"
   },
   {
   "videoName":"Arrays", 
   "videoId" : "tI_tIZFyKBw",
-  "videoImg" : "https://github.com/shreykharbanda31/APIAlgoReady/blob/main/AlgoReady%20Posters/Arrays.png"
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Arrays.png"
   }
 ];
             // Send the JSON data as the response
