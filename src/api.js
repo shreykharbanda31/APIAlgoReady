@@ -1,8 +1,6 @@
 const express = require("express");
 const cors = require("cors");
 const serverless = require("serverless-http");
-const fs = require("fs");
-const path = require("path")
 
 const app = express();
 
@@ -12,9 +10,18 @@ const router = express.Router();
 
 router.get("/youtubedata", (req, res) => {
           try {
-            // Read the JSON file
-            const filePath = "src/youtubedata.txt";
-            const jsonData = JSON.parse(fs.readFileSync(filePath, "utf8"));
+          const jsonData = [
+  {
+  "videoName" : "2-3-4 Trees",
+  "videoId": "VEBgxn0wbeM", 
+  "videoImg" : "https://github.com/shreykharbanda31/APIAlgoReady/blob/main/AlgoReady%20Posters/2-3-4Trees.png"
+  },
+  {
+  "videoName":"Arrays", 
+  "videoId" : "tI_tIZFyKBw",
+  "videoImg" : "https://github.com/shreykharbanda31/APIAlgoReady/blob/main/AlgoReady%20Posters/Arrays.png"
+  }
+];
             // Send the JSON data as the response
             res.json(jsonData);
           } catch (error) {
