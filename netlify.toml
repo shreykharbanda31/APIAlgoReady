@@ -2,8 +2,8 @@
   functions = "functions"
 
 [[redirects]]
-  from = "/youtubedata.json"
-  to = "/youtubedata.json"
+  from = "src/youtubedata.json"
+  to = "src/youtubedata.json"
   status = 200
 
 
