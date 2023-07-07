@@ -1,17 +1,20 @@
 const express = require("express");
 const cors = require("cors");
 const serverless = require("serverless-http");
-
+const fs = require("fs");
 
 const app = express();
 
-// app.use(express.json());
-// app.use(express.cors());
-
+app.use(express.json());
 const router = express.Router();
 
 router.get("/youtubedata", (req, res) => {
-    res.json(./youtubedata.json);
+      // Read the JSON file
+      const filePath =  __dirname + "/youtubedata.json";
+      const jsonData = fs.readFileSync(filePath, "utf8");
+        
+      // Send the JSON data as the response
+      res.send(jsonData);
     });
 
 app.use(`/.netlify/functions/api`, router);
