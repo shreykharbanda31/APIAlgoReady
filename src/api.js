@@ -6,11 +6,12 @@ const fs = require("fs");
 const app = express();
 
 app.use(express.json());
+app.use(cors())
 const router = express.Router();
 
 router.get("/youtubedata", (req, res) => {
-      // Read the JSON file
-      const filePath =  __dirname + "/youtubedata.json";
+        // Construct the file path
+        const filePath = path.join(__dirname, "../youtubedata.json");
       const jsonData = fs.readFileSync(filePath, "utf8");
         
       // Send the JSON data as the response
