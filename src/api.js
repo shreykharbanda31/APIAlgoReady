@@ -13,7 +13,7 @@ const router = express.Router();
 router.get("/youtubedata", (req, res) => {
           try {
             // Read the JSON file
-            const filePath = path.join(__dirname, "/youtubedata.json");
+            const filePath = "https://github.com/shreykharbanda31/APIAlgoReady/blob/main/youtubedata.json";
             const jsonData = JSON.parse(fs.readFileSync(filePath, "utf8"));
             // Send the JSON data as the response
             res.json(jsonData);
