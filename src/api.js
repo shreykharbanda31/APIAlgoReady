@@ -2,6 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const serverless = require("serverless-http");
 const fs = require("fs");
+const path = require("path")
 
 const app = express();
 
@@ -10,12 +11,19 @@ app.use(cors())
 const router = express.Router();
 
 router.get("/youtubedata", (req, res) => {
-        // Construct the file path
-        const filePath = path.join(__dirname, "../youtubedata.json");
-      const jsonData = fs.readFileSync(filePath, "utf8");
+          try {
+            // Construct the file path
+            const filePath = path.join(__dirname, "../youtubedata.json");
         
-      // Send the JSON data as the response
-      res.send(jsonData);
+            // Read the JSON file
+            const jsonData = fs.readFileSync(filePath, "utf8");
+        
+            // Send the JSON data as the response
+            res.send(jsonData);
+          } catch (error) {
+            console.error(error);
+            res.status(500).send("Internal Server Error");
+          }
     });
 
 app.use(`/.netlify/functions/api`, router);
