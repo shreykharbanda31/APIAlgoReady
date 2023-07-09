@@ -31,17 +31,27 @@
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/HashTables.png"
   },
   {
+  "videoName":"Binary Search", 
+  "videoId" : "D5SrAga1pno",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/BinarySearch.png"
+  },
+  {
+  "videoName":"Bitwise Operations", 
+  "videoId" : "7jkIUgLC29I",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/BitwiseOperations.png"
+  },
+  {
+  "videoName":"Trees", 
+  "videoId" : "uWL6FJhq5fM",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Trees.png"
+  },
+  {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
   {
-   "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-  {
-   "videoName":"", 
+  "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
@@ -50,4 +60,44 @@
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
+  {
+  "videoName":"", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
+  },
+  {
+  "videoName":"", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
+  },
+  {
+  "videoName":"", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
+  },
+  {
+  "videoName":"", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
+  },
+  {
+  "videoName":"", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
+  },
+  {
+  "videoName":"", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
+  },
+  {
+  "videoName":"", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
+  },
+  {
+  "videoName":"", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
+  }
 ]
