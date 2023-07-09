@@ -16,38 +16,38 @@
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/LinkedLists.png"
   },
   {
-  "videoName":"Stack", 
+  "videoName":"Stacks", 
   "videoId" : "KcT3aVgrrpU",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Stacks.png"
   },
   {
- "videoName":"Stack", 
-  "videoId" : "KcT3aVgrrpU",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Stacks.png" 
+ "videoName":"Queues", 
+  "videoId" : "D6gu-_tmEpQ",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Queues.png" 
   },
   {
-  "videoName":"Stack", 
-  "videoId" : "KcT3aVgrrpU",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Stacks.png"
+  "videoName":"Hash Tables", 
+  "videoId" : "Nz1KZXbghj8",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/HashTables.png"
   },
   {
-  "videoName":"Stack", 
-  "videoId" : "KcT3aVgrrpU",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Stacks.png"
+  "videoName":"", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
   {
-   "videoName":"Stack", 
-  "videoId" : "KcT3aVgrrpU",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Stacks.png"
+   "videoName":"", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
   {
-   "videoName":"Stack", 
-  "videoId" : "KcT3aVgrrpU",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Stacks.png"
+   "videoName":"", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
   {
-  "videoName":"Stack", 
-  "videoId" : "KcT3aVgrrpU",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Stacks.png"
+  "videoName":"", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
 ]
