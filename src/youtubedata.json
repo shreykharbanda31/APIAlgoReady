@@ -111,7 +111,7 @@
   },
    {
   "videoName":"Floating Point Numbers", 
-  "videoId" : "",
+  "videoId" : "ji3SfClm8TU",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Floats.png"
   },
    {
@@ -121,12 +121,12 @@
   },
    {
   "videoName":"Endianness", 
-  "videoId" : "",
+  "videoId" : "JrNF0KRAlyo",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Endianness.png"
   },
    {
   "videoName":"Networking", 
-  "videoId" : "",
+  "videoId" : "nomyRJehhnM",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Networking.png"
   },
    {
@@ -136,12 +136,12 @@
   },
    {
   "videoName":"Compilers", 
-  "videoId" : "",
+  "videoId" : "CSZLNYF4Klo",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Compilers.png"
   },
    {
   "videoName":"Emacs and vi(m)", 
-  "videoId" : "",
+  "videoId" : "5givLEMcINQ",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Emacs.png"
   },
    {
@@ -156,12 +156,12 @@
   },
    {
   "videoName":"Parity & Hamming Code", 
-  "videoId" : "",
+  "videoId" : "q-3BctoUpHE",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/ParityHamming.png"
   },
    {
   "videoName":"Entropy", 
-  "videoId" : "",
+  "videoId" : "JnJq3Py0dyM",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Entropy.png"
   },
    {
@@ -171,7 +171,7 @@
   },
   {
   "videoName":"Compression", 
-  "videoId" : "",
+  "videoId" : "Lto-ajuqW3w",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Compression.png"
   },
    {
@@ -181,22 +181,22 @@
   },
    {
   "videoName":"Garbage collection", 
-  "videoId" : "",
+  "videoId" : "iHVs_HkjdmI",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/GarbageCollection.png"
   },
    {
   "videoName":"Parallel Programming", 
-  "videoId" : "",
+  "videoId" : "uY85GkaYzBk",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/ParallelProgramming.png"
   },
    {
   "videoName":"A*", 
-  "videoId" : "",
+  "videoId" : "-L-WgKMFuhE",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/A.png"
   },
    {
   "videoName":"Fast Fourier Transform", 
-  "videoId" : "",
+  "videoId" : "Xxut2PN-V8Q",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/FastFourier.png"
   },
    {
@@ -211,7 +211,7 @@
   },
    {
   "videoName":"van Emde Boas Trees", 
-  "videoId" : "",
+  "videoId" : "hmReJCupbNU",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/VEBTs.png"
   },
    {
@@ -227,22 +227,22 @@
   
    {
   "videoName":"AVL trees", 
-  "videoId" : "",
+  "videoId" : "FNeL18KsWPc",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/AVLTrees.png"
   },
    {
   "videoName":"Splay trees", 
-  "videoId" : "",
+  "videoId" : "QnPl_Y6EqMo",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/SplayTrees.png"
   },
    {
   "videoName":"Red/black trees", 
-  "videoId" : "",
+  "videoId" : "hm2GHwyKF1o",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Red_BlackTrees.png"
   },
    {
   "videoName":"2-3 search trees", 
-  "videoId" : "",
+  "videoId" : "C3SsdUqasD4",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/2-3SearchTrees.png"
   },
    {
@@ -257,28 +257,28 @@
   },
    {
   "videoName":"B-Trees", 
-  "videoId" : "",
+  "videoId" : "s3bCdZGrgpA",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/B-Trees.png"
   },
    {
   "videoName":"k-D Trees", 
-  "videoId" : "",
+  "videoId" : "Y4ZgLlDfKDg",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/k-DTrees.png"
   },
    {
   "videoName":"Skip lists", 
-  "videoId" : "",
+  "videoId" : "2g9OSRKJuzM",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/SkipLists.png"
   },
    {
   "videoName":"Network Flows", 
-  "videoId" : "",
+  "videoId" : "2vhN4Ice5jI",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/NetworkFlows.png"
   },
    {
-  "videoName":"", 
+  "videoName":"Final Review", 
   "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/FinalReview.png"
   },
    {
   "videoName":"", 
