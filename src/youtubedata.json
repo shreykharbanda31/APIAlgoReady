@@ -101,7 +101,7 @@
   },
    {
   "videoName":"String Searching & Manipulations", 
-  "videoId" : "",
+  "videoId" : "__nu_5MFVqo",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/StringSearchingManipulation.png"
   },
    {
@@ -110,13 +110,13 @@
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Tries.png"
   },
    {
-  "videoName":"Floating Point Numbers", 
+  "videoName": "Floating Point Numbers", 
   "videoId" : "ji3SfClm8TU",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Floats.png"
   },
    {
   "videoName":"Unicode", 
-  "videoId" : "",
+  "videoId" : "ut74oHojxqo",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Unicode.png"
   },
    {
@@ -131,7 +131,7 @@
   },
    {
   "videoName":"System Design, Scalability, Data Handling", 
-  "videoId" : "",
+  "videoId" : "LsDZab4GpVc",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20PostersSystemDesign/.png"
   },
    {
@@ -140,22 +140,22 @@
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Compilers.png"
   },
    {
-  "videoName":"Emacs and vi(m)", 
+  "videoName":"Emacs and Vi(m)", 
   "videoId" : "5givLEMcINQ",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Emacs.png"
   },
    {
-  "videoName":"Unix command line tools", 
-  "videoId" : "",
+  "videoName":"Unix Command Line Tools", 
+  "videoId" : "dAlvphnUTWE",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/UNIX.png"
   },
    {
-  "videoName":"Information theory ", 
-  "videoId" : "",
+  "videoName":"Information Theory", 
+  "videoId" : "bkLHszLlH34",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/InfoTheory.png"
   },
    {
-  "videoName":"Parity & Hamming Code", 
+  "videoName": "Parity & Hamming Code", 
   "videoId" : "q-3BctoUpHE",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/ParityHamming.png"
   },
@@ -165,8 +165,8 @@
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Entropy.png"
   },
    {
-  "videoName":"Cryptography", 
-  "videoId" : "",
+  "videoName": "Cryptography", 
+  "videoId" : "6_Cxj5WKpIw",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Cryptography.png"
   },
   {
@@ -175,8 +175,8 @@
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Compression.png"
   },
    {
-  "videoName":"Computer Security", 
-  "videoId" : "",
+  "videoName": "Computer Security", 
+  "videoId" : "z5nc9MDbvkw",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/ComputerSecurity.png"
   },
    {
@@ -201,12 +201,12 @@
   },
    {
   "videoName":"HyperLogLog", 
-  "videoId" : "",
+  "videoId" : "eV1haPUt0NU",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Hyperloglog.png"
   },
    {
-  "videoName":"Locality-Sensitive Hashing", 
-  "videoId" : "",
+  "videoName": "Locality-Sensitive Hashing", 
+  "videoId" : "e8dA0tscrCM",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/LSH.png"
   },
    {
@@ -215,44 +215,44 @@
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/VEBTs.png"
   },
    {
-  "videoName":"Augmented Data Structures", 
-  "videoId" : "",
+  "videoName": "Augmented Data Structures", 
+  "videoId" : "ccdssX4rIh8",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/AugmentedDSA.png"
   },
   {
-  "videoName":"Balanced search trees", 
-  "videoId" : "",
+  "videoName":"Balanced Search Trees", 
+  "videoId" : "Awkkz8UytZE",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/BalancedSTs.png"
   },
   
    {
-  "videoName":"AVL trees", 
+  "videoName":"AVL Trees", 
   "videoId" : "FNeL18KsWPc",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/AVLTrees.png"
   },
    {
-  "videoName":"Splay trees", 
+  "videoName":"Splay Trees", 
   "videoId" : "QnPl_Y6EqMo",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/SplayTrees.png"
   },
    {
-  "videoName":"Red/black trees", 
+  "videoName":"Red/Black Trees", 
   "videoId" : "hm2GHwyKF1o",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Red_BlackTrees.png"
   },
    {
-  "videoName":"2-3 search trees", 
+  "videoName": "2-3 Search Trees", 
   "videoId" : "C3SsdUqasD4",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/2-3SearchTrees.png"
   },
    {
   "videoName":"2-3-4 Trees", 
-  "videoId" : "",
+  "videoId" : "2Bz31Vrsqmk",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/2-3-4Trees.png"
   },
    {
-  "videoName":"N-ary trees", 
-  "videoId" : "",
+  "videoName":"N-ary Trees", 
+  "videoId" : "XjhAJ7WWfMM",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/N-aryTrees.png"
   },
    {
@@ -277,77 +277,7 @@
   },
    {
   "videoName":"Final Review", 
-  "videoId" : "",
+  "videoId" : "vFOw_m5zNCs",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/FinalReview.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
+  }
 ]
