@@ -166,9 +166,64 @@
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Entropy.png"
   },
    {
-  "videoName":"", 
+  "videoName":"Cryptography", 
   "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Cryptography.png"
+  },
+  {
+  "videoName":"Compression", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Compression.png"
+  },
+   {
+  "videoName":"Computer Security", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/ComputerSecurity.png"
+  },
+   {
+  "videoName":"Garbage collection", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/GarbageCollection.png"
+  },
+   {
+  "videoName":"Parallel Programming", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/ParallelProgramming.png"
+  },
+   {
+  "videoName":"A*", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/A.png"
+  },
+   {
+  "videoName":"Fast Fourier Transform", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/FastFourier.png"
+  },
+   {
+  "videoName":"HyperLogLog", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Hyperloglog.png"
+  },
+   {
+  "videoName":"Locality-Sensitive Hashing", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/LSH.png"
+  },
+   {
+  "videoName":"van Emde Boas Trees", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/VEBTs.png"
+  },
+   {
+  "videoName":"Augmented Data Structures", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/AugmentedDSA.png"
+  },
+  {
+  "videoName":"Balanced search trees", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/BalancedSTs.png"
   },
   
    {
@@ -176,67 +231,46 @@
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
-  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
-  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
-  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
-  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
-  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
-  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
-  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
-  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
-  
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-  
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
-  
    {
   "videoName":"", 
   "videoId" : "",
