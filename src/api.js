@@ -144,7 +144,7 @@ router.get("/youtubedata", (req, res) => {
    {
   "videoName":"System Design, Scalability, Data Handling", 
   "videoId" : "LsDZab4GpVc",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20PostersSystemDesign/.png"
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/SystemDesign.png"
   },
    {
   "videoName":"Compilers", 
@@ -275,7 +275,7 @@ router.get("/youtubedata", (req, res) => {
    {
   "videoName":"k-D Trees", 
   "videoId" : "Y4ZgLlDfKDg",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/k-DTrees.png"
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/K-DTrees.png"
   },
    {
   "videoName":"Skip lists", 
