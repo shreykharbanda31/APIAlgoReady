@@ -96,75 +96,147 @@
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Threads.png"
   },
   {
-  "videoName":"", 
+  "videoName":"Testing", 
+  "videoId" : "SAhJf36_u5U",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Testing.png"
+  },
+   {
+  "videoName":"String Searching & Manipulations", 
   "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/StringSearchingManipulation.png"
+  },
+   {
+  "videoName":"Tries", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Tries.png"
+  },
+   {
+  "videoName":"Floating Point Numbers", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Floats.png"
+  },
+   {
+  "videoName":"Unicode", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Unicode.png"
+  },
+   {
+  "videoName":"Endianness", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Endianness.png"
+  },
+   {
+  "videoName":"Networking", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Networking.png"
+  },
+   {
+  "videoName":"System Design, Scalability, Data Handling", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20PostersSystemDesign/.png"
+  },
+   {
+  "videoName":"Compilers", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Compilers.png"
+  },
+   {
+  "videoName":"Emacs and vi(m)", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Emacs.png"
+  },
+   {
+  "videoName":"Unix command line tools", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/UNIX.png"
+  },
+   {
+  "videoName":"Information theory ", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/InfoTheory.png"
+  },
+   {
+  "videoName":"Parity & Hamming Code", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/ParityHamming.png"
+  },
+   {
+  "videoName":"Entropy", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Entropy.png"
   },
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
+  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
+  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
+  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
+  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
+  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
+  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
+  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
+  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
+  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
+  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
+  
    {
   "videoName":"", 
   "videoId" : "",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
   },
-   {
-  "videoName":"", 
-  "videoId" : "",
-  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/.png"
-  },
+  
    {
   "videoName":"", 
   "videoId" : "",
