@@ -22,7 +22,6 @@ router.get("/youtubedata", (req, res) => {
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Arrays.png"
   },
   {
-    
   "videoName":"Linked Lists", 
   "videoId" : "2T-A_GFuoTo",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/LinkedLists.png"
@@ -91,6 +90,207 @@ router.get("/youtubedata", (req, res) => {
   "videoName":"NP, NP-Complete and Approximation Algorithms", 
   "videoId" : "moPtwq_cVH8",
   "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/NPAlgos.png"
+  },
+  {
+  "videoName":"How computers process a program", 
+  "videoId" : "XM4lGflQFvA",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Processes.png"
+  },
+  {
+  "videoName":"Caches", 
+  "videoId" : "R5ON3iwx78M",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Caches.png"
+  },
+  {
+  "videoName":"Processes and Threads", 
+  "videoId" : "Bs7vPNbB9JM",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Threads.png"
+  },
+  {
+  "videoName":"Testing", 
+  "videoId" : "SAhJf36_u5U",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Testing.png"
+  },
+   {
+  "videoName":"String Searching & Manipulations", 
+  "videoId" : "__nu_5MFVqo",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/StringSearchingManipulation.png"
+  },
+   {
+  "videoName":"Tries", 
+  "videoId" : "",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Tries.png"
+  },
+   {
+  "videoName": "Floating Point Numbers", 
+  "videoId" : "ji3SfClm8TU",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Floats.png"
+  },
+   {
+  "videoName":"Unicode", 
+  "videoId" : "ut74oHojxqo",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Unicode.png"
+  },
+   {
+  "videoName":"Endianness", 
+  "videoId" : "JrNF0KRAlyo",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Endianness.png"
+  },
+   {
+  "videoName":"Networking", 
+  "videoId" : "nomyRJehhnM",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Networking.png"
+  },
+   {
+  "videoName":"System Design, Scalability, Data Handling", 
+  "videoId" : "LsDZab4GpVc",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20PostersSystemDesign/.png"
+  },
+   {
+  "videoName":"Compilers", 
+  "videoId" : "CSZLNYF4Klo",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Compilers.png"
+  },
+   {
+  "videoName":"Emacs and Vi(m)", 
+  "videoId" : "5givLEMcINQ",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Emacs.png"
+  },
+   {
+  "videoName":"Unix Command Line Tools", 
+  "videoId" : "dAlvphnUTWE",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/UNIX.png"
+  },
+   {
+  "videoName":"Information Theory", 
+  "videoId" : "bkLHszLlH34",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/InfoTheory.png"
+  },
+   {
+  "videoName": "Parity & Hamming Code", 
+  "videoId" : "q-3BctoUpHE",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/ParityHamming.png"
+  },
+   {
+  "videoName":"Entropy", 
+  "videoId" : "JnJq3Py0dyM",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Entropy.png"
+  },
+   {
+  "videoName": "Cryptography", 
+  "videoId" : "6_Cxj5WKpIw",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Cryptography.png"
+  },
+  {
+  "videoName":"Compression", 
+  "videoId" : "Lto-ajuqW3w",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Compression.png"
+  },
+   {
+  "videoName": "Computer Security", 
+  "videoId" : "z5nc9MDbvkw",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/ComputerSecurity.png"
+  },
+   {
+  "videoName":"Garbage collection", 
+  "videoId" : "iHVs_HkjdmI",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/GarbageCollection.png"
+  },
+   {
+  "videoName":"Parallel Programming", 
+  "videoId" : "uY85GkaYzBk",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/ParallelProgramming.png"
+  },
+   {
+  "videoName":"A*", 
+  "videoId" : "-L-WgKMFuhE",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/A.png"
+  },
+   {
+  "videoName":"Fast Fourier Transform", 
+  "videoId" : "Xxut2PN-V8Q",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/FastFourier.png"
+  },
+   {
+  "videoName":"HyperLogLog", 
+  "videoId" : "eV1haPUt0NU",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Hyperloglog.png"
+  },
+   {
+  "videoName": "Locality-Sensitive Hashing", 
+  "videoId" : "e8dA0tscrCM",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/LSH.png"
+  },
+   {
+  "videoName":"van Emde Boas Trees", 
+  "videoId" : "hmReJCupbNU",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/VEBTs.png"
+  },
+   {
+  "videoName": "Augmented Data Structures", 
+  "videoId" : "ccdssX4rIh8",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/AugmentedDSA.png"
+  },
+  {
+  "videoName":"Balanced Search Trees", 
+  "videoId" : "Awkkz8UytZE",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/BalancedSTs.png"
+  },
+  
+   {
+  "videoName":"AVL Trees", 
+  "videoId" : "FNeL18KsWPc",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/AVLTrees.png"
+  },
+   {
+  "videoName":"Splay Trees", 
+  "videoId" : "QnPl_Y6EqMo",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/SplayTrees.png"
+  },
+   {
+  "videoName":"Red/Black Trees", 
+  "videoId" : "hm2GHwyKF1o",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/Red_BlackTrees.png"
+  },
+   {
+  "videoName": "2-3 Search Trees", 
+  "videoId" : "C3SsdUqasD4",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/2-3SearchTrees.png"
+  },
+   {
+  "videoName":"2-3-4 Trees", 
+  "videoId" : "2Bz31Vrsqmk",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/2-3-4Trees.png"
+  },
+   {
+  "videoName":"N-ary Trees", 
+  "videoId" : "XjhAJ7WWfMM",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/N-aryTrees.png"
+  },
+   {
+  "videoName":"B-Trees", 
+  "videoId" : "s3bCdZGrgpA",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/B-Trees.png"
+  },
+   {
+  "videoName":"k-D Trees", 
+  "videoId" : "Y4ZgLlDfKDg",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/k-DTrees.png"
+  },
+   {
+  "videoName":"Skip lists", 
+  "videoId" : "2g9OSRKJuzM",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/SkipLists.png"
+  },
+   {
+  "videoName":"Network Flows", 
+  "videoId" : "2vhN4Ice5jI",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/NetworkFlows.png"
+  },
+   {
+  "videoName":"Final Review", 
+  "videoId" : "vFOw_m5zNCs",
+  "videoImg" : "https://raw.githubusercontent.com/shreykharbanda31/APIAlgoReady/main/AlgoReady%20Posters/FinalReview.png"
   }
 ];
             // Send the JSON data as the response
