@@ -9,10 +9,10 @@ Published by Shrey Kharbanda on July 15, 2023
 ## Features
 The AlgoReady API Server incorporates the following features:
 
-* [Mongoose](https://mongoosejs.com/): Uses Mongoose library to interact with a MongoDB database.
-* [Express Framework](https://expressjs.com/): Implements the Express framework to handle HTTP requests and define API routes.
-* [CORS Middleware](https://www.npmjs.com/package/cors): Utilizes the CORS middleware to handle Cross-Origin Resource Sharing.
-* [Serverless Deployment](https://www.npmjs.com/package/serverless-http): Supports serverless deployment using the serverless-http package.
+* [Mongoose](https://mongoosejs.com/) : Uses Mongoose library to interact with a MongoDB database.
+* [Express Framework](https://expressjs.com/) : Implements the Express framework to handle HTTP requests and define API routes.
+* [CORS Middleware](https://www.npmjs.com/package/cors) : Utilizes the CORS middleware to handle Cross-Origin Resource Sharing.
+* [Serverless Deployment](https://www.npmjs.com/package/serverless-http) : Supports serverless deployment using the serverless-http package.
 
 ## Installation
 
